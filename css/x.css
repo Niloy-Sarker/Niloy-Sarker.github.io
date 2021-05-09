@@ -1,0 +1,22 @@
+#x {
+border: none;
+text-align : center;
+}
+img {
+         max-width: 100%;
+         height: auto;
+      }
+textarea {
+resize: none;
+ width:90% ; 
+ height : auto; 
+ text-align: center;
+ }
+ #y1{
+ width : 100%;
+ background: gray;
+  text-align: center;
+ border : 10px solid gray;
+ border-radius: 10px;
+ outline: none;
+  }

@@ -1,0 +1,10 @@
+a{
+					  outline: none;
+         text-decoration: none;
+         font-family: sans-serif;
+         -webkit-tap-highlight-color: transparent; 
+}
+a:active {
+         text-decoration: none;
+         background: none;
+      }
