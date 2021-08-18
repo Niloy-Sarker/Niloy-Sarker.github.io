@@ -1,0 +1,29 @@
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> cd Root
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> importing script....
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> import successful.
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> bash Hack_script.sh
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> Executing......
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> # # # # # # # # # # # # # # # 100%
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span>  placing trojan....................
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span>  successful.
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> Accessing Facebook.........
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> Accessing Messenger.........
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> successful.
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> <span id ="z" > <br> <br>
+Warning!!!! <br> Warning!!! <br> Warning!!
+</span>
+
+<span id="a">@Device</span>:<span id="b">~</span><span id="c">$</span> 
+Your Device is infected.. 
+to repair, <a href="#" onclick="stvb()" id="z"> Click Here </a> 
