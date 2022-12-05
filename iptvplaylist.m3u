@@ -1,0 +1,29 @@
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 resolution="1920@1080",Star Sports 1
+http://172.16.128.2:8081/live/sky1007/chunks.m3u8
+#EXTINF:-1 resolution="1920@1080",T Sports
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8
+#EXTINF:-1 resolution="1920@1080",T Sports
+http://live.hoihulloor.com/live/hull1000/index.m3u8
+#EXTINF:-1 resolution="1920@1080",Gtv
+http://172.16.128.2:8081/live/sky1009/chunks.m3u8
+#EXTINF:-1 resolution="1920@1080",Star sports 1 hd
+http://172.16.128.2:8081/live/sky1008/chunks.m3u8
+#EXTINF:-1 resolution="1920@1080",PTV
+http://172.16.128.2:8081/live/sky1012/chunks.m3u8
+#EXTINF:-1 resolution="1280@720",Gtv
+http://172.16.128.2:8081/live/sky2002/chunks.m3u8
+#EXTINF:-1 resolution="1280@720",Tv
+http://172.16.128.2:8081/live/sky2003/chunks.m3u8
+#EXTINF:-1 resolution="1280@720",T Sports
+http://172.16.128.2:8081/live/sky2001/chunks.m3u8
+#EXTINF:-1 group-title="news" resolution="1280@720",Tv
+http://172.16.128.2:8081/live/sky2004/chunks.m3u8
+#EXTINF:-1 resolution="1280@720",Star jalsa
+http://172.16.128.2:8081/live/sky2006/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png" group-title="toffe" resolution="1280@720",Toffe Match 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/channels/profile/594383/4790884ce81ff6117c0beb281f1f3add.png" group-title="toffe" resolution="1280@720",Toffe Match 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/bein1.jpg",beIN Sports 3 Max
+http://175.107.244.52:4457/play/a06z/index.m3u8
